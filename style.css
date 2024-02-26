@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #f1eaea;
     margin: 0;
     padding: 0;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 600px;
     margin: 50px auto;
-    background-color: #fff;
+    background-color: #bb9f9f;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -18,15 +18,15 @@ input[type="text"] {
     padding: 8px;
     width: 70%;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #3a2828;
 }
 
 button {
     padding: 8px 15px;
-    background-color: #4caf50;
+    background-color: #9e4caf;
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 550px;
     cursor: pointer;
 }
 
@@ -42,7 +42,7 @@ ul {
 li {
     padding: 10px;
     margin-bottom: 5px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #8a3e3e;
     display: flex;
     align-items: center;
     justify-content: space-between;
